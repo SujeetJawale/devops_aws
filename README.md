@@ -58,7 +58,7 @@
   ```bash
   ls -ltr
   ```
-## ---------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------
 In this comprehensive guide, we'll explore essential Linux commands for file management, text manipulation, and editing. Understanding these commands is crucial for DevOps engineers and AWS practitioners.
 
 ## File Management Fundamentals
@@ -214,7 +214,7 @@ SED is a powerful stream editor for transforming text. It's particularly useful 
 4. Combine commands to create more efficient workflows
 5. Practice VI commands regularly to build muscle memory
 
-## ---------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------
 # Linux Command-Line Operations
 
 ## 1. SED Command (Stream Editor)
@@ -360,7 +360,7 @@ graph LR
     D --> F[Full Access]
     D --> G[Limited Access]
 ```
-## ---------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------
 # Linux User Management and File Permissions
 
 ## SSH Configuration and User Management
@@ -606,7 +606,8 @@ rwx r-x r-x = 755 (Directory default)
 rw- r-- r-- = 644 (File default)
 ```
 
-## ---------------------------------------------------------------------------------------------
+## ## --------------------------------------------------------------------------------
+
 
 # Linux Command Line Notes
 
@@ -748,7 +749,7 @@ $ sudo apt install openjdk-11-jdk   # For Debian/Ubuntu
 $ git --version
 $ java --version
 ```
-## ## ---------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------
 
 # Linux Administration Guide
 
@@ -905,7 +906,7 @@ Linux is a:
   - Nexus
   - Sonar
   - Web servers
-## ## ---------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------
 
 # Shell Scripting Notes 📝
 
