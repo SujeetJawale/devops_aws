@@ -130,9 +130,4 @@ Each module contains detailed explanations, example code, and diagrams where app
 ### Contributions
 Feel free to contribute to this repository by suggesting new topics, design patterns, or improvements to the explanations and examples.
 
-### Contact
-Connect with me on:
-- **LinkedIn**: [Rohit Gawande](https://www.linkedin.com/in/rohit-singh-b079192a9/)
-- **GitHub**: [RohitGawande](https://leetcode.com/u/ROHIT_GAWANDE/)
-
 Happy learning and coding!
